@@ -2,21 +2,19 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.A. in Computer Science, University of California, Berkeley, 2022
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
-======
+## Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -36,11 +34,13 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+## Publications
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+- Brian Yu, **Hansen Lillemark**, Kurt Keutzer, (2023). “Simple and Effective Input Reformulations for Translation.” Empirical Methods in Natural Language Processing. [link.](http://arxiv.org/abs/2311.06696)
+- Christian Shewmake, Domas Buracas, **Hansen Lillemark**, Jinho Shin, Erik Bekkers, Nina Miolane, Bruno Olshausen, (2023). “Visual Scene Representation with Hierarchical Equivariant Sparse Coding.” NeurIPS Workshop on Symmetry and Geometry in Neural Representations. [link.](https://openreview.net/pdf?id=TF2RcrcTP2)
+  
   
 <!-- Talks
 ======
@@ -54,6 +54,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
+## Service and leadership
 * Currently signed in to 43 different slack teams

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: #"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I’m a machine learning researcher dedicated to building AI systems capable of robust decision making and human-like perception. Natural selection had to work with a number of constraints to design the human brain, which may or may not be necessary to include as priors in our machine learning models. I believe a principled yet intuitive approach is the way forward: iterate on including the correct components based on human cognition into today's best model architectures. Relying on scale alone will not be sufficient to solve issues with robustness, interpretability, and truthfulness, especially in regimes interacting with humans. Currently I am a part of Bruno Olshausen's lab group at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) at UC Berkeley. 
 
+
+Here are some directions I'm intersted in right now:
+- Building **better memory augmented models** to improve reasoning and factuality capabilities. Current retrieval augmentation utilizes static large databases that the model does not choose to remember. A joint training regime such that the model can separate memorization from reasoning in its parametric weights will be a key piece of future models.
+- Identifying the correct **geometry and structure** to use as inductive priors in computer vision models for better interpretability and provable generalizability. We should have a deep understanding for the reason of each piece of the model's architecture, and design new components with idealized properties in mind, such as whether we can use those activations to interpret the model's decision making. 
+- Realizing multimodal reasoning and self-consistency in a **unified multimodal foundation model**. Does it make sense to use a joint embedding scheme and force the model to figure out that text in an image and the tokenized text representation are actually the same? Will this be sufficient beyond surface level multimodal alignment?
+
+
+
+<!-- I have extensive technical experience implementing ML architectures using Python, PyTorch, and HuggingFace Transformers, and theoretical background in neuroscience, cognitive modeling, and linear algebra. Currently I am interested in exploring: 1. Identifying the correct geometry and structure to use as inductive priors in models for better interpretability and provable generalizability. 2. Using human cognition (Context memory, long term memory, theories of human reasoning, etc.) as inspiration for improving reasoning and factuality capabilities in LLMs. 3. Realizing multimodal reasoning and self-consistency in a unified multimodal foundation model. -->
+
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -47,4 +58,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
