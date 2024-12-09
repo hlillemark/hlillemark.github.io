@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hansen Lillemark"
+title                    : "Hansen Jin Lillemark"
 title_separator          : "-"
-name                     : &name "Hansen Lillemark"
+name                     : &name "Hansen Jin Lillemark"
 description              : &description "PhD Student"
 url                      : https://hlillemark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
