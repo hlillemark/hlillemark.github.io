@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hansen Lillemark"
 title_separator          : "-"
 name                     : &name "Hansen Lillemark"
-description              : &description "ML Researcher"
+description              : &description "PhD Student"
 url                      : https://hlillemark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hlillemark/hlillemark.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hansen Lillemark"
+  name             : "Hansen Jin Lillemark"
   avatar           : "profile.png"
-  bio              : "ML Researcher. Interested in human cognition in machine intelligence."
-  location         : "SF / UC Berkeley"
+  bio              : "PhD Student at UCSD. Interested in human cognition in machine intelligence."
+  location         : "San Diego / San Francisco"
   employer         : # "UC Berkeley"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X_mcf_EAAAAJ&hl=en&authuser=1"
-  email            : hlillemark@berkeley.edu
+  email            : hlillemark@ucsd.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"hlillemark"
+  github           : "hlillemark"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # hlillemark
+  twitter          : hansenlillemark
   vine             :
   weibo            :
   xing             :
