@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import {QUARTZ, joinSegments} from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -8,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      // TODO: Fill this in with my links.
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
@@ -44,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       // CUSTOM for visualizing the profile image
       component: Component.ProfileImage({
-        src: "/assets/headshot.png",
+        src: joinSegments(QUARTZ, "static", "headshot.png"),
         alt: "Hansen Lillemark",
         size: "160px",
       }),
