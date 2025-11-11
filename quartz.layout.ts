@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       // CUSTOM for visualizing the profile image
       component: Component.ProfileImage({
-        src: joinSegments(QUARTZ, "static", "headshot.png"),
+        src: joinSegments("static", "headshot.png"),
         alt: "Hansen Lillemark",
         size: "160px",
       }),
