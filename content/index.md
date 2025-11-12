@@ -10,5 +10,5 @@ I’m currently advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/), and c
 
 Read more about my [[Publications]] and [[Research Interests]] if you are interested! ~
 
-Apart from research, I like to try new recipes, go on long runs, and read books. Check out my [[Reading log]] and [[Current Fascinations]]!
+Apart from research, I like to try new recipes, go on long runs, and read books. Check out my [[Reading log]] and [Misc obsessions](Miscellaneous%20Obsessions.md)!
 
