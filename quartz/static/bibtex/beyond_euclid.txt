@@ -1,0 +1,14 @@
+@article{Papillon_2025,
+   title={Beyond Euclid: an illustrated guide to modern machine learning with geometric, topological, and algebraic structures},
+   volume={6},
+   ISSN={2632-2153},
+   url={http://dx.doi.org/10.1088/2632-2153/adf375},
+   DOI={10.1088/2632-2153/adf375},
+   number={3},
+   journal={Machine Learning: Science and Technology},
+   publisher={IOP Publishing},
+   author={Papillon, Mathilde and Sanborn, Sophia and Mathe, Johan and Cornelis, Louisa and Bertics, Abby and Buracas, Domas and J Lillemark, 
+Hansen and Shewmake, Christian and Dinc, Fatih and Pennec, Xavier and Miolane, Nina},
+   year={2025},
+   month=aug, pages={031002} }
+

@@ -1,6 +1,6 @@
 ---
 title: Misc
-draft: false
+draft: true
 tags:
   -
 ---

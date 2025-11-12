@@ -1,0 +1,10 @@
+@inproceedings{
+shewmake2023visual,
+title={Visual Scene Representation with Hierarchical Equivariant Sparse Coding},
+author={Christian A Shewmake and Domas Buracas and Hansen Lillemark and Jinho Shin and Erik J Bekkers and Nina Miolane and Bruno 
+Olshausen},
+booktitle={NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations},
+year={2023},
+url={https://openreview.net/forum?id=TF2RcrcTP2}
+}
+

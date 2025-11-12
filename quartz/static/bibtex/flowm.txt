@@ -1,0 +1,8 @@
+@inproceedings{
+lillemark2025flow,
+title={Flow Equivariant World Models: Structured Dynamics Outside the Field of View},
+author={Hansen Lillemark and Benhao Huang and Fangneng Zhan and Yilun Du and T. Anderson Keller},
+booktitle={NeurIPS 2025 Workshop on Symmetry and Geometry in Neural Representations},
+year={2025},
+url={https://openreview.net/forum?id=WLxwYlkPHp}
+}

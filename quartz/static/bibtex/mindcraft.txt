@@ -1,0 +1,11 @@
+@misc{white2025collaboratingactionactionmultiagent,
+      title={Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning}, 
+      author={Isadora White and Kolby Nottingham and Ayush Maniar and Max Robinson and Hansen Lillemark and Mehul Maheshwari and Lianhui Qin and 
+Prithviraj Ammanabrolu},
+      year={2025},
+      eprint={2504.17950},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA},
+      url={https://arxiv.org/abs/2504.17950}, 
+}
+

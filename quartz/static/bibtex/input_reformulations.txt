@@ -1,0 +1,10 @@
+@inproceedings{Yu_2023,
+   title={Simple and Effective Input Reformulations for Translation},
+   url={http://dx.doi.org/10.18653/v1/2023.emnlp-main.638},
+   DOI={10.18653/v1/2023.emnlp-main.638},
+   booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+   publisher={Association for Computational Linguistics},
+   author={Yu, Brian and Lillemark, Hansen and Keutzer, Kurt},
+   year={2023},
+   pages={10322–10334} }
+

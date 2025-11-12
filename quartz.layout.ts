@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import {QUARTZ, joinSegments} from "./quartz/util/path"
+import {joinSegments} from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -10,8 +10,11 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       // TODO: Fill this in with my links.
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "hlillemark at ucsd dot edu": "mailto:hlillemark@ucsd.edu",
+      "google scholar": "https://scholar.google.com/citations?user=X_mcf_EAAAAJ&hl=en",
+      github: "https://github.com/hlillemark",
+      linkedin: "https://linkedin.com/in/hliillemark",
+      twitter: "https://twitter.com/hansenlillemark",
     },
   }),
 }
