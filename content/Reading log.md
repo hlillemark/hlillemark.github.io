@@ -10,6 +10,7 @@ Walden | Henry David Thoreau
 
 ## 2025
 Free Food for Millionaires | Min Jin Lee  
+John and Paul | Ian Leslie
 **\*\*Pachinko | Min Jin Lee**  
 **\*\*Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi | Victor Shi**  
 This is It | Alan Watts  
