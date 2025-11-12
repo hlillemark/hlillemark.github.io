@@ -1,5 +1,5 @@
 ---
-title: Current Fascinations
+title: Reading Log
 draft: false
 tags:
   -
@@ -7,3 +7,4 @@ tags:
 
 
 
+Reading...
