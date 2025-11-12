@@ -5,7 +5,8 @@ tags:
   -
 ---
 
-**Currently reading:** Walden | Henry David Thoreau
+**Currently reading:**  
+Walden | Henry David Thoreau
 
 ## 2025
 Free Food for Millionaires | Min Jin Lee  
