@@ -15,6 +15,7 @@ John and Paul | Ian Leslie
 **\*\*Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi | Victor Shi**  
 This is It | Alan Watts  
 What I Talk About When I Talk About Running | Haruki Murakami  
+The White Album | Joan Didion
 Talking to My Daughter About the Economy | Yanis Varoufakis  
 Before the Coffee Gets Cold | Toshikazu Kawaguchi  
 
