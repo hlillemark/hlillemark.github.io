@@ -6,15 +6,19 @@ tags:
 ---
 
 **Currently reading:**  
-Walden | Henry David Thoreau
+TBD!
+
+## 2026
+Better get started!
 
 ## 2025
+**\*\*Walden | Henry David Thoreau**
 Free Food for Millionaires | Min Jin Lee  
 John and Paul | Ian Leslie  
 **\*\*Pachinko | Min Jin Lee**  
-**\*\*Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi | Victor Shi**  
 This is It | Alan Watts  
 What I Talk About When I Talk About Running | Haruki Murakami  
+**\*\*Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi | Victor Shi**  
 The White Album | Joan Didion
 Talking to My Daughter About the Economy | Yanis Varoufakis  
 Before the Coffee Gets Cold | Toshikazu Kawaguchi  

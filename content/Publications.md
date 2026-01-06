@@ -16,9 +16,10 @@ The following papers are listed in chronological order:
   <div class="pub-text">
     <b>Flow Equivariant World Models: Structured Dynamics Outside the Field of View</b><br>
     <b>Hansen Lillemark*</b>, Benhao Huang*, Fangneng Zhan, Yilun Du, T Anderson Keller<br>
-    <em>4th NeurReps Workshop @ NeurIPS, SpaVLE Workshop @ NeurIPS, 2025</em><br>
-    <a href="https://openreview.net/pdf?id=WLxwYlkPHp">paper</a> /
-    <a href="https://github.com/AnonFloWM/Flow-Equivariant-World-Modeling">code</a> /
+    <em>ArXiv, 4th NeurReps Workshop @ NeurIPS, SpaVLE Workshop @ NeurIPS, 2025</em><br>
+    <a href="https://flowequivariantworldmodels.github.io/">project page</a> /
+    <a href="https://arxiv.org/abs/2601.01075">paper</a> /
+    <a href="https://flowequivariantworldmodels.github.io/">code</a> /
     <a href="/static/bibtex/flowm.txt" target="_blank">bibtex</a>
   </div>
 </div>
