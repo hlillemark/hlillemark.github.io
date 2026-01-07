@@ -12,7 +12,7 @@ The following papers are listed in chronological order:
 
 <!-- FloWM -->
 <div class="pub-card featured">
-  <img src="static/paper_previews/flowm_preview.gif" alt="Flow Equivariant World Model" class="pub-img" />
+  <img src="static/paper_previews/flowm_preview_new.gif" alt="Flow Equivariant World Model" class="pub-img" />
   <div class="pub-text">
     <b>Flow Equivariant World Models: Structured Dynamics Outside the Field of View</b><br>
     <b>Hansen Jin Lillemark*</b>, Benhao Huang*, Fangneng Zhan, Yilun Du, T. Anderson Keller<br>
