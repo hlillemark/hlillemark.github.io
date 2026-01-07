@@ -1,8 +1,9 @@
-@inproceedings{
-lillemark2025flow,
-title={Flow Equivariant World Models: Structured Dynamics Outside the Field of View},
-author={Hansen Lillemark and Benhao Huang and Fangneng Zhan and Yilun Du and T. Anderson Keller},
-booktitle={NeurIPS 2025 Workshop on Symmetry and Geometry in Neural Representations},
-year={2025},
-url={https://openreview.net/forum?id=WLxwYlkPHp}
-}
+@misc{lillemark2026flowequivariantworldmodels,
+      title={Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments}, 
+      author={Hansen Jin Lillemark and Benhao Huang and Fangneng Zhan and Yilun Du and Thomas Anderson Keller},
+      year={2026},
+      eprint={2601.01075},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.01075}, 
+    }
