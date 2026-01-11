@@ -6,7 +6,7 @@ tags:
 ---
 
 **Currently reading:**  
-TBD!
+Diplomacy | Henry Kissinger
 
 ## 2026
 Better get started!
@@ -41,7 +41,7 @@ The Worlds I See | Fei-Fei Li
 Norwegian Wood | Haruki Murakami  
 Death's End | Cixin Liu  
 The Dark Forest | Cixin Liu  
-The Three-Body Problem | Cixin Liu  
+**\*\*The Three-Body Problem | Cixin Liu**  
 A Promised Land | Barack Obama  
 **\*\*On China | Henry Kissinger**  
 The Prince | Niccolo Machiavelli  
