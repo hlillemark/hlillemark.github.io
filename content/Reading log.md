@@ -60,3 +60,10 @@ A Thousand Brains: A New Theory of Intelligence | Jeff Hawkins
 Genius Makers | Cade Metz  
 CEO Excellence | Carolyn Dewar  
 
+
+## Favorite Textbooks
+Principles of Neural Design | Peter Sterling and Simon Laughlin
+Probabilistic Machine Learning: An Introduction | Kevin Murphy
+Probabilistic Machine Learning: Advanced Topics | Kevin Murphy
+Foundations of Computer Vision | Antonio Torralba, Phillip Isola, and William T. Freeman
+Information Theory, Inference, and Learning Algorithms | David J. MacKay
