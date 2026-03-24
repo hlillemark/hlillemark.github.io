@@ -9,7 +9,7 @@ tags:
 Diplomacy | Henry Kissinger
 
 ## 2026
-Better get started!
+Before Sunrise/Sunset/Midnight Screenplay | Richard Linklater, Julie Delpy, Ethan Hawke
 
 ## 2025
 **\*\*Walden | Henry David Thoreau**
@@ -30,6 +30,8 @@ The Gate to China: A New History of the People's Republic & Hong Kong | Michael 
 It's OK to be Angry About Capitalism | Bernie Sanders  
 On Equal Terms: Redefining China's Relationship with America and the West | Mingxun Zheng  
 After Dark | Harkuki Murakami  
+Candide | Voltaire
+When We Cease to Understand the World | Benjamin Labatut
 **\*\*Stay True | Hua Hsu**  
 **\*\*Alexander Hamilton | Ron Chernow**  
 Educated | Tara Westover  
