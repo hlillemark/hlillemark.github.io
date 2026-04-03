@@ -58,7 +58,7 @@ Crying in H Mart | Michelle Zauner
 
 ## 2022
 1984 | George Orwell  
-Guns, Germs, and Steel | Jared Diamond
+Guns, Germs, and Steel | Jared Diamond  
 **\*\*The Vital Question | Nick Lane**  
 Man's Search for Meaning | Viktor E. Frankl  
 A Thousand Brains: A New Theory of Intelligence | Jeff Hawkins  
