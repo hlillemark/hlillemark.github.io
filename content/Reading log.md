@@ -46,7 +46,7 @@ Norwegian Wood | Haruki Murakami
 Death's End | Cixin Liu  
 The Dark Forest | Cixin Liu  
 **\*\*The Three-Body Problem | Cixin Liu**  
-Godel, Escher, Bach | Douglas Hofstadter
+Godel, Escher, Bach | Douglas Hofstadter  
 A Promised Land | Barack Obama  
 **\*\*On China | Henry Kissinger**  
 The Prince | Niccolo Machiavelli  
@@ -57,8 +57,8 @@ The Undoing Project | Michael Lewis
 Crying in H Mart | Michelle Zauner  
 
 ## 2022
-1984 | George Orwell  
-Guns, Germs, and Steel | Jared Diamond  
+1984 | George Orwell   
+Guns, Germs, and Steel | Jared Diamond   
 **\*\*The Vital Question | Nick Lane**  
 Man's Search for Meaning | Viktor E. Frankl  
 A Thousand Brains: A New Theory of Intelligence | Jeff Hawkins  
