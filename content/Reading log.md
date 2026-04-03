@@ -9,16 +9,18 @@ tags:
 Diplomacy | Henry Kissinger
 
 ## 2026
+On the Road | Jack Kerouac 
 Before Sunrise/Sunset/Midnight Screenplay | Richard Linklater, Julie Delpy, Ethan Hawke
 
 ## 2025
-**\*\*Walden | Henry David Thoreau**
+**\*\*Walden | Henry David Thoreau**  
 Free Food for Millionaires | Min Jin Lee  
 John and Paul | Ian Leslie  
 **\*\*Pachinko | Min Jin Lee**  
 This is It | Alan Watts  
 What I Talk About When I Talk About Running | Haruki Murakami  
 **\*\*Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi | Victor Shi**  
+Reality Is Not What It Seems | Carlo Rovelli
 The White Album | Joan Didion
 Talking to My Daughter About the Economy | Yanis Varoufakis  
 Before the Coffee Gets Cold | Toshikazu Kawaguchi  
@@ -44,6 +46,7 @@ Norwegian Wood | Haruki Murakami
 Death's End | Cixin Liu  
 The Dark Forest | Cixin Liu  
 **\*\*The Three-Body Problem | Cixin Liu**  
+Godel, Escher, Bach | Douglas Hofstadter
 A Promised Land | Barack Obama  
 **\*\*On China | Henry Kissinger**  
 The Prince | Niccolo Machiavelli  
@@ -55,6 +58,7 @@ Crying in H Mart | Michelle Zauner
 
 ## 2022
 1984 | George Orwell  
+Guns, Germs, and Steel | Jared Diamond
 **\*\*The Vital Question | Nick Lane**  
 Man's Search for Meaning | Viktor E. Frankl  
 A Thousand Brains: A New Theory of Intelligence | Jeff Hawkins  
