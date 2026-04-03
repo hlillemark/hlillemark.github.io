@@ -9,7 +9,7 @@ tags:
 Diplomacy | Henry Kissinger
 
 ## 2026
-On the Road | Jack Kerouac 
+On the Road | Jack Kerouac  
 Before Sunrise/Sunset/Midnight Screenplay | Richard Linklater, Julie Delpy, Ethan Hawke
 
 ## 2025
@@ -68,8 +68,8 @@ CEO Excellence | Carolyn Dewar
 
 
 ## Favorite Textbooks
-Principles of Neural Design | Peter Sterling and Simon Laughlin
-Probabilistic Machine Learning: An Introduction | Kevin Murphy
-Probabilistic Machine Learning: Advanced Topics | Kevin Murphy
-Foundations of Computer Vision | Antonio Torralba, Phillip Isola, and William T. Freeman
-Information Theory, Inference, and Learning Algorithms | David J. MacKay
+Principles of Neural Design | Peter Sterling and Simon Laughlin  
+Probabilistic Machine Learning: An Introduction | Kevin Murphy  
+Probabilistic Machine Learning: Advanced Topics | Kevin Murphy  
+Foundations of Computer Vision | Antonio Torralba, Phillip Isola, and William T. Freeman  
+Information Theory, Inference, and Learning Algorithms | David J. MacKay  
