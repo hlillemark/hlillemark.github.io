@@ -14,9 +14,9 @@ The following papers are listed in chronological order:
 <div class="pub-card featured">
   <img src="static/paper_previews/flowm_preview_new.gif" alt="Flow Equivariant World Model" class="pub-img" />
   <div class="pub-text">
-    <b>Flow Equivariant World Models: Structured Dynamics Outside the Field of View</b><br>
+    <b>Flow Equivariant World Models: Structured Memory for Dynamic Environments</b><br>
     <b>Hansen Jin Lillemark*</b>, Benhao Huang*, Fangneng Zhan, Yilun Du, T. Anderson Keller<br>
-    <em>ArXiv, 4th NeurReps Workshop @ NeurIPS, SpaVLE Workshop @ NeurIPS, 2025</em><br>
+    <em>International Conference on Machine Learning (ICML) 2026, 4th NeurReps Workshop @ NeurIPS 2025</em><br>
     <a href="https://flowequivariantworldmodels.github.io/">project page</a> /
     <a href="https://arxiv.org/abs/2601.01075">paper</a> /
     <a href="https://github.com/hlillemark/flowm">code</a> /

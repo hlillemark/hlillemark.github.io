@@ -7,7 +7,8 @@ tags:
 
 **Currently reading:**  
 Diplomacy | Henry Kissinger
-
+How to Know a Person | David Brooks
+Pride and Prejudice | Jane Austen
 ## 2026
 On the Road | Jack Kerouac  
 Before Sunrise/Sunset/Midnight Screenplay | Richard Linklater, Julie Delpy, Ethan Hawke
