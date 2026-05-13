@@ -10,7 +10,7 @@ I’m a second year PhD Student at UC San Diego interested in generative modelin
 
 I’m currently advised by Profs. [Rose Yu](https://roseyu.com/) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) at UCSD. I am also actively collaborating with Prof. [Yilun Du](https://yilundu.github.io/), and spent my 2025 Summer as a visiting student at Harvard jointly advised by Yilun and [Andy Keller](https://akandykeller.github.io/about/). Read more about my [[Publications]] and [[Research Interests]] if you are interested! ~
 
-Previously I was advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/) at UCSD, I worked with Prof. Bruno Olshausen at UC Berkeley’s [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/), with Prof. Kurt Keutzer at [BAIR](https://bair.berkeley.edu/), and as a founding research scientist at [New Theory AI](https://www.newtheory.ai/). I received my bachelor's degree in Computer Science at UC Berkeley. In a past life, I was the co-founder and CTO of a financial technology startup.
+Previously I was advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/) at UCSD, I worked with Prof. Bruno Olshausen at UC Berkeley’s [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/), with Prof. Kurt Keutzer at [BAIR](https://bair.berkeley.edu/), and was a founding research scientist at [New Theory AI](https://www.newtheory.ai/). I received my bachelor's degree in Computer Science at UC Berkeley. In a past life, I was the co-founder and CTO of a financial technology startup.
 
 Apart from research, I like to try new recipes, go on long runs, and read books. Check out my [[Reading log]] and [Misc obsessions](Miscellaneous%20Obsessions.md)!
 
