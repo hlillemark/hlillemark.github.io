@@ -6,11 +6,14 @@ tags:
 ---
 
 **Currently reading:**  
+The Gender of Memory, Rural Women and China's Collective Past | Gail Hershatter  
+Principles | Ray Dalio  
 Diplomacy | Henry Kissinger  
-Pride and Prejudice | Jane Austen  
 Active Inference: The Free Energy Principle in Mind, Brain, and Behavior | Thomas Parr, Giovanni Pezzulo, Karl J. Friston   
 ## 2026
-How to Know a Person | David Brooks
+The Selfish Gene | Richard Dawkins  
+Pride and Prejudice | Jane Austen  
+How to Know a Person | David Brooks  
 On the Road | Jack Kerouac  
 Before Sunrise/Sunset/Midnight Screenplay | Richard Linklater, Julie Delpy, Ethan Hawke
 
