@@ -13,3 +13,16 @@ footer {
     margin-top: -1rem;
   }
 }
+
+@media (max-width: 800px) {
+  footer {
+    margin-bottom: 2rem;
+    text-align: center;
+
+    & ul {
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: -0.5rem;
+    }
+  }
+}

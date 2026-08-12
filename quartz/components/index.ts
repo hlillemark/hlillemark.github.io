@@ -24,7 +24,8 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import ProfileImage from "./ProfileImage"
-
+import ProfileHeader from "./ProfileHeader"
+import MobileTopBarTitle from "./MobileTopBarTitle"
 
 export {
   ArticleTitle,
@@ -53,4 +54,6 @@ export {
   Flex,
   ConditionalRender,
   ProfileImage,
+  ProfileHeader,
+  MobileTopBarTitle,
 }

@@ -1,21 +1,23 @@
 ---
-title: Reading Log
+title: Library
 draft: false
 tags:
   -
 ---
 
-**Currently reading:**  
-The Gender of Memory, Rural Women and China's Collective Past | Gail Hershatter  
+## Currently reading:
+Democracy in America | Alexis de Tocqueville  
 Principles | Ray Dalio  
 Diplomacy | Henry Kissinger  
 Active Inference: The Free Energy Principle in Mind, Brain, and Behavior | Thomas Parr, Giovanni Pezzulo, Karl J. Friston   
+
 ## 2026
+The Gender of Memory, Rural Women and China's Collective Past | Gail Hershatter  
 The Selfish Gene | Richard Dawkins  
 Pride and Prejudice | Jane Austen  
 How to Know a Person | David Brooks  
 On the Road | Jack Kerouac  
-Before Sunrise/Sunset/Midnight Screenplay | Richard Linklater, Julie Delpy, Ethan Hawke
+Before Sunrise/Sunset/Midnight Screenplay | Richard Linklater, Julie Delpy, Ethan Hawke  
 
 ## 2025
 **\*\*Walden | Henry David Thoreau**  
@@ -74,7 +76,6 @@ CEO Excellence | Carolyn Dewar
 
 ## Favorite Textbooks
 Principles of Neural Design | Peter Sterling and Simon Laughlin  
-Probabilistic Machine Learning: An Introduction | Kevin Murphy  
-Probabilistic Machine Learning: Advanced Topics | Kevin Murphy  
+Probabilistic Machine Learning: An Introduction / Advanced Topics | Kevin Murphy  
 Foundations of Computer Vision | Antonio Torralba, Phillip Isola, and William T. Freeman  
 Information Theory, Inference, and Learning Algorithms | David J. MacKay  

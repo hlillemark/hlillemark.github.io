@@ -1,6 +1,25 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import {joinSegments} from "./quartz/util/path"
+import { joinSegments } from "./quartz/util/path"
+import { FileTrieNode } from "./quartz/util/fileTrie"
+
+function sortPages(a: FileTrieNode, b: FileTrieNode): number {
+  const pageOrder = ["Publications", "Research Interests", "Library", "Miscellaneous Obsessions"]
+  const aIndex = pageOrder.indexOf(a.displayName)
+  const bIndex = pageOrder.indexOf(b.displayName)
+
+  if (aIndex !== -1 || bIndex !== -1) {
+    if (aIndex === -1) return 1
+    if (bIndex === -1) return -1
+    return aIndex - bIndex
+  }
+
+  if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+  return a.displayName.localeCompare(b.displayName, undefined, {
+    numeric: true,
+    sensitivity: "base",
+  })
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -23,7 +42,16 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
+      component: Component.ProfileHeader({
+        src: joinSegments("static", "headshot.png"),
+        name: "Hansen Jin Lillemark",
+        subtitle: "PhD Student, UC San Diego",
+        alt: "Hansen Lillemark",
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.Breadcrumbs()),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
@@ -31,52 +59,33 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        // { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
-  ],
-  right: [
+    Component.Darkmode(),
+    Component.Explorer({ desktopCollapsible: false, showHome: true, sortFn: sortPages }),
     Component.ConditionalRender({
-      // CUSTOM for visualizing the profile image
-      component: Component.ProfileImage({
-        src: joinSegments("static", "headshot.png"),
-        alt: "Hansen Lillemark",
-        size: "160px",
-      }),
-      condition: (page) => page.fileData.slug == "index",
+      component: Component.MobileOnly(
+        Component.MobileTopBarTitle({ text: "Hansen Jin Lillemark" }),
+      ),
+      condition: (page) => page.fileData.slug === "index",
     }),
-    // Component.Graph(),
-    // Component.DesktopOnly(Component.TableOfContents()),
-    // Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.MobileOnly(Component.Breadcrumbs()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
+  right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.DesktopOnly(Component.Breadcrumbs()),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-    Component.Explorer(),
+    Component.Darkmode(),
+    Component.Explorer({ desktopCollapsible: false, showHome: true, sortFn: sortPages }),
+    Component.MobileOnly(Component.Breadcrumbs()),
   ],
   right: [],
 }

@@ -1,0 +1,25 @@
+@use "../../styles/variables.scss" as *;
+
+.mobile-home-title {
+  overflow: hidden;
+  color: var(--secondary);
+  font-family: var(--titleFont);
+  font-size: 1rem;
+  font-weight: $semiBoldWeight;
+  line-height: 1.2;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(0.25rem);
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease,
+    visibility 150ms ease;
+
+  &.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}

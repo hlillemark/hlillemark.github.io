@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { coauthorLinks } from "./quartz/data/coauthors"
 
 /**
  * Quartz 4 Configuration
@@ -92,6 +93,7 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CoauthorLinks({ links: coauthorLinks }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],

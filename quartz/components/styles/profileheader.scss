@@ -1,0 +1,57 @@
+@use "../../styles/variables.scss" as *;
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 0 0 1.5rem;
+}
+
+.profile-header-image {
+  flex-shrink: 0;
+  width: 140px;
+  height: 140px;
+  margin: 0;
+  border-radius: 16px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-header-text {
+  min-width: 0;
+}
+
+.profile-header-name {
+  color: var(--secondary);
+  font-family: var(--titleFont);
+  font-size: 2rem;
+  font-weight: $semiBoldWeight;
+  line-height: 1.15;
+}
+
+.profile-header-subtitle {
+  margin: 0.4rem 0 0;
+  color: var(--darkgray);
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+@media all and ($mobile) {
+  .profile-header {
+    gap: 1rem;
+    margin: 0.75rem 0 1.25rem;
+  }
+
+  .profile-header-image {
+    width: 88px;
+    height: 88px;
+  }
+
+  .profile-header-name {
+    font-size: 1.5rem;
+  }
+
+  .profile-header-subtitle {
+    font-size: 0.9rem;
+  }
+}

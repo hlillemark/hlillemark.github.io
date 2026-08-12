@@ -83,6 +83,7 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const template = document.getElementById("template-file") as HTMLTemplateElement
   const clone = template.content.cloneNode(true) as DocumentFragment
   const li = clone.querySelector("li") as HTMLLIElement
+  li.classList.add("explorer-entry")
   const a = li.querySelector("a") as HTMLAnchorElement
   a.href = resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
@@ -103,6 +104,7 @@ function createFolderNode(
   const template = document.getElementById("template-folder") as HTMLTemplateElement
   const clone = template.content.cloneNode(true) as DocumentFragment
   const li = clone.querySelector("li") as HTMLLIElement
+  li.classList.add("explorer-entry")
   const folderContainer = li.querySelector(".folder-container") as HTMLElement
   const titleContainer = folderContainer.querySelector("div") as HTMLElement
   const folderOuter = li.querySelector(".folder-outer") as HTMLElement
@@ -205,6 +207,10 @@ async function setupExplorer(currentSlug: FullSlug) {
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
 
+    // Quartz preserves the explorer list during SPA navigation. Remove entries
+    // created during the previous setup before repopulating it.
+    explorerUl.querySelectorAll(":scope > .explorer-entry").forEach((entry) => entry.remove())
+
     // Create and insert new content
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {
@@ -214,7 +220,8 @@ async function setupExplorer(currentSlug: FullSlug) {
 
       fragment.appendChild(node)
     }
-    explorerUl.insertBefore(fragment, explorerUl.firstChild)
+    const endMarker = explorerUl.querySelector(":scope > .overflow-end")
+    explorerUl.insertBefore(fragment, endMarker)
 
     // restore explorer scrollTop position if it exists
     const scrollTop = sessionStorage.getItem("explorerScrollTop")

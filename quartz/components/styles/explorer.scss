@@ -56,20 +56,20 @@
     margin-bottom: auto;
   }
 
-  button.mobile-explorer {
+  .mobile-explorer {
     display: none;
   }
 
-  button.desktop-explorer {
+  .desktop-explorer {
     display: flex;
   }
 
   @media all and ($mobile) {
-    button.mobile-explorer {
+    .mobile-explorer {
       display: flex;
     }
 
-    button.desktop-explorer {
+    .desktop-explorer {
       display: none;
     }
   }
@@ -88,6 +88,13 @@
       pointer-events: none;
     }
   }
+}
+
+.explorer-title {
+  align-items: center;
+  color: var(--dark);
+  font-size: 1rem;
+  margin: 0;
 }
 
 button.mobile-explorer,
