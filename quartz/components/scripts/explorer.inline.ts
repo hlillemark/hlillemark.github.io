@@ -228,10 +228,19 @@ async function setupExplorer(currentSlug: FullSlug) {
     if (scrollTop) {
       explorerUl.scrollTop = parseInt(scrollTop)
     } else {
-      // try to scroll to the active element if it exists
+      // Keep the active entry visible by scrolling only the Explorer list.
+      // scrollIntoView() can unexpectedly scroll the entire page on initial load.
       const activeElement = explorerUl.querySelector(".active")
       if (activeElement) {
-        activeElement.scrollIntoView({ behavior: "smooth" })
+        const listRect = explorerUl.getBoundingClientRect()
+        const activeRect = activeElement.getBoundingClientRect()
+        const activeIsOutsideList =
+          activeRect.top < listRect.top || activeRect.bottom > listRect.bottom
+
+        if (activeIsOutsideList) {
+          explorerUl.scrollTop +=
+            activeRect.top - listRect.top - (listRect.height - activeRect.height) / 2
+        }
       }
     }
 
