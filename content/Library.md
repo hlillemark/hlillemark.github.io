@@ -27,8 +27,8 @@ John and Paul | Ian Leslie
 This is It | Alan Watts  
 What I Talk About When I Talk About Running | Haruki Murakami  
 **\*\*Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi | Victor Shi**  
-Reality Is Not What It Seems | Carlo Rovelli
-The White Album | Joan Didion
+Reality Is Not What It Seems | Carlo Rovelli  
+The White Album | Joan Didion  
 Talking to My Daughter About the Economy | Yanis Varoufakis  
 Before the Coffee Gets Cold | Toshikazu Kawaguchi  
 
@@ -39,8 +39,8 @@ The Gate to China: A New History of the People's Republic & Hong Kong | Michael 
 It's OK to be Angry About Capitalism | Bernie Sanders  
 On Equal Terms: Redefining China's Relationship with America and the West | Mingxun Zheng  
 After Dark | Harkuki Murakami  
-Candide | Voltaire
-When We Cease to Understand the World | Benjamin Labatut
+Candide | Voltaire  
+When We Cease to Understand the World | Benjamin Labatut  
 **\*\*Stay True | Hua Hsu**  
 **\*\*Alexander Hamilton | Ron Chernow**  
 Educated | Tara Westover  
