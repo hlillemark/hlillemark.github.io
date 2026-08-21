@@ -12,7 +12,7 @@ Diplomacy | Henry Kissinger
 Active Inference: The Free Energy Principle in Mind, Brain, and Behavior | Thomas Parr, Giovanni Pezzulo, Karl J. Friston   
 
 ## 2026
-The Gender of Memory, Rural Women and China's Collective Past | Gail Hershatter  
+The Gender of Memory: Rural Women and China's Collective Past | Gail Hershatter  
 The Selfish Gene | Richard Dawkins  
 Pride and Prejudice | Jane Austen  
 How to Know a Person | David Brooks  

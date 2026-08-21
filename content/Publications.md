@@ -20,7 +20,7 @@ The following papers are listed in chronological order:
     <b class="pub-self">Hansen Jin Lillemark*</b>, Alex Rojas*, Zachary Novack, Runqian Wang, Yilun Du, Yian Ma, Taylor Berg-Kirkpatrick, Rose Yu<br>
     <em>Arxiv 2026</em><br>
     <a href="https://equilibriumforcing.github.io/" target="_blank">project page</a> /
-    <a href="https://equilibriumforcing.github.io/static/pdf/eqf.pdf" target="_blank">paper</a> /
+    <a href="https://arxiv.org/abs/2608.14706" target="_blank">paper</a> /
     <!-- <a href="https://github.com/hlillemark" target="_blank">code (available on request)</a> / -->
     <a href="#">code (available on request)</a> /
     <a href="/static/bibtex/eqf.txt" target="_blank">bibtex</a>
