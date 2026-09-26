@@ -7,11 +7,17 @@ tags:
 
 ## Currently reading:
 Democracy in America | Alexis de Tocqueville  
+The Price of Our Values | Augustin Landier and David Thesmar  
 Principles | Ray Dalio  
-Diplomacy | Henry Kissinger  
-Active Inference: The Free Energy Principle in Mind, Brain, and Behavior | Thomas Parr, Giovanni Pezzulo, Karl J. Friston   
+Diplomacy | Henry Kissinger   
+The History of Western Philosophy | Bertrand Russell   
+En el Tiempo de las Mariposas | Julia Alvarez    
+%%Active Inference: The Free Energy Principle in Mind, Brain, and Behavior | Thomas Parr, Giovanni Pezzulo, Karl J. Friston   %%
+
 
 ## 2026
+Invisible China: How the Urban-Rural Divide Threatens China's Rise | Scott Rozelle and Natalie Hell   
+Breakneck: China's Quest to Engineer the Future | Dan Wang   
 The Gender of Memory: Rural Women and China's Collective Past | Gail Hershatter  
 The Selfish Gene | Richard Dawkins  
 Pride and Prejudice | Jane Austen  
@@ -27,6 +33,7 @@ John and Paul | Ian Leslie
 This is It | Alan Watts  
 What I Talk About When I Talk About Running | Haruki Murakami  
 **\*\*Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi | Victor Shi**  
+Abundance | Ezra Klein and Derek Thompson  
 Reality Is Not What It Seems | Carlo Rovelli  
 The White Album | Joan Didion  
 Talking to My Daughter About the Economy | Yanis Varoufakis  

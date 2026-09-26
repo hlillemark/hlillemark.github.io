@@ -18,11 +18,10 @@ The following papers are listed in chronological order:
   <div class="pub-text">
     <b>Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning</b><br>
     <b class="pub-self">Hansen Jin Lillemark*</b>, Alex Rojas*, Zachary Novack, Runqian Wang, Yilun Du, Yian Ma, Taylor Berg-Kirkpatrick, Rose Yu<br>
-    <em>Arxiv 2026</em><br>
+    <em>NeurIPS 2026</em><br>
     <a href="https://equilibriumforcing.github.io/" target="_blank">project page</a> /
     <a href="https://arxiv.org/abs/2608.14706" target="_blank">paper</a> /
-    <!-- <a href="https://github.com/hlillemark" target="_blank">code (available on request)</a> / -->
-    <a href="#">code (available on request)</a> /
+    <a href="[https://github.com/hlillemark](https://github.com/Rose-STL-Lab/eqf)" target="_blank">code (available on request)</a> / 
     <a href="/static/bibtex/eqf.txt" target="_blank">bibtex</a>
   </div>
 </div>
@@ -36,7 +35,7 @@ The following papers are listed in chronological order:
   <div class="pub-text">
     <b>Flow Equivariant World Models: Structured Memory for Dynamic Environments</b><br>
     <b class="pub-self">Hansen Jin Lillemark*</b>, Benhao Huang*, Fangneng Zhan, Yilun Du, T. Anderson Keller<br>
-    <em>International Conference on Machine Learning (ICML) 2026, 4th NeurReps Workshop @ NeurIPS 2025</em><br>
+    <em>ICML 2026, 4th NeurReps Workshop @ NeurIPS 2025</em><br>
     <a href="https://flowequivariantworldmodels.github.io/" target="_blank">project page</a> /
     <a href="https://arxiv.org/abs/2601.01075" target="_blank">paper</a> /
     <a href="https://github.com/hlillemark/flowm" target="_blank">code</a> /
