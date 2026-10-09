@@ -14,7 +14,7 @@ I'm fortunate to be advised by Profs. [Rose Yu](https://roseyu.com/) and [Taylor
 
 ![[Publications#^recent-work]]
 
-I enjoyed Summer 2025 as a visiting PhD student at Harvard advised by Yilun and [Andy Keller](https://akandykeller.github.io/about/). Previously I was advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/) at UCSD, by Prof. Bruno Olshausen at UC Berkeley's [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/), and by Prof. Kurt Keutzer at [BAIR](https://bair.berkeley.edu/). I have also been a founding research scientist at New Theory AI, and in a past life, I was the co-founder and CTO of a financial technology startup. I received my bachelor's degree in Computer Science from UC Berkeley. 
+I enjoyed Summer 2025 as a visiting PhD student at Harvard advised by Yilun and [Andy Keller](https://akandykeller.github.io/about/). Previously I was advised by Prof. [Zhiting Hu](https://zhiting.ucsd.edu/) at UCSD, by Prof. Bruno Olshausen at UC Berkeley's [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/), and by Prof. Kurt Keutzer at [BAIR](https://bair.berkeley.edu/). I have also been a founding research scientist at New Theory AI, and in a past life, I was the co-founder and CTO of a financial technology platform for providing autonomous loans. I received my bachelor's degree in Computer Science from UC Berkeley. 
 
 Apart from research, I like to try new recipes, go on long runs, and read books on various topics. Check out my [[Library]] and [[Misc obsessions]]!
 

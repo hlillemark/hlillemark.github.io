@@ -21,7 +21,7 @@ The following papers are listed in chronological order:
     <em>NeurIPS 2026</em><br>
     <a href="https://equilibriumforcing.github.io/" target="_blank">project page</a> /
     <a href="https://arxiv.org/abs/2608.14706" target="_blank">paper</a> /
-    <a href="[https://github.com/hlillemark](https://github.com/Rose-STL-Lab/eqf)" target="_blank">code (available on request)</a> / 
+    <a href="https://github.com/Rose-STL-Lab/eqf" target="_blank">code</a> / 
     <a href="/static/bibtex/eqf.txt" target="_blank">bibtex</a>
   </div>
 </div>
