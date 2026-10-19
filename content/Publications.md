@@ -28,6 +28,23 @@ The following papers are listed in chronological order:
 
 ^eqf
 
+<!-- UGG -->
+<!--
+<div class="pub-card">
+  <img src="static/paper_previews/ugg_preview.gif" alt="Unified Generative Geometry Model" class="pub-img" />
+  <div class="pub-text">
+    <b>UGG: Unified Generative Geometry Model</b><br>
+    Amani Kiruga*, Zhiyi Li*, Ruojin Cai*, <b class="pub-self">Hansen Jin Lillemark</b>, Xiaoshan Wu, Ayush Tewari, Yilun Du<br>
+    <em>NeurIPS 2026</em><br>
+    <a href="https://ugg-model.github.io/" target="_blank">project page</a> /
+    <a href="https://arxiv.org/abs/2608.14706" target="_blank">paper</a> /
+    <a href="https://github.com/Rose-STL-Lab/eqf" target="_blank">code</a> / 
+    <a href="/static/bibtex/eqf.txt" target="_blank">bibtex</a>
+  </div>
+</div>
+-->
+
+
 
 <!-- FloWM -->
 <div class="pub-card featured">

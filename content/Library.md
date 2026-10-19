@@ -6,20 +6,23 @@ tags:
 ---
 
 ## Currently reading:
-Democracy in America | Alexis de Tocqueville  
-The Price of Our Values | Augustin Landier and David Thesmar  
-Principles | Ray Dalio  
+A Farewell To Arms |  Ernest Hemingway
+Democracy in America | Alexis de Tocqueville   
 Diplomacy | Henry Kissinger   
 The History of Western Philosophy | Bertrand Russell   
 En el Tiempo de las Mariposas | Julia Alvarez    
+我在北京送快递 | 胡安焉   
+%%Principles | Ray Dalio   %%
 %%Active Inference: The Free Energy Principle in Mind, Brain, and Behavior | Thomas Parr, Giovanni Pezzulo, Karl J. Friston   %%
 
 
 ## 2026
+The Price of Our Values | Augustin Landier and David Thesmar  
+American Hagwon | Min Jin Lee   
 Invisible China: How the Urban-Rural Divide Threatens China's Rise | Scott Rozelle and Natalie Hell   
 Breakneck: China's Quest to Engineer the Future | Dan Wang   
-The Gender of Memory: Rural Women and China's Collective Past | Gail Hershatter  
-The Selfish Gene | Richard Dawkins  
+**\*\*The Gender of Memory: Rural Women and China's Collective Past | Gail Hershatter**  
+**\*\*The Selfish Gene | Richard Dawkins**  
 Pride and Prejudice | Jane Austen  
 How to Know a Person | David Brooks  
 On the Road | Jack Kerouac  
