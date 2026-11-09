@@ -1,0 +1,6 @@
+@inproceedings{kiruga2026ugg,
+  title={UGG: Unified Generative Geometry Model},
+  author={Kiruga, Amani and Li, Zhiyi and Cai, Ruojin and Lillemark, Hansen and Wu, Xiaoshan and Tewari, Ayush and Du, Yilun},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2026}
+}

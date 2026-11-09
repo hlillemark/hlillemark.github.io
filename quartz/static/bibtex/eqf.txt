@@ -1,1 +1,6 @@
-todo
+@inproceedings{lillemark2026equilibriumforcing,
+  title={Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning},
+  author={Lillemark, Hansen Jin and Rojas, Alex and Novack, Zachary and Wang, Runqian and Du, Yilun and Ma, Yian and Berg-Kirkpatrick, Taylor and Yu, Rose},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2026}
+}

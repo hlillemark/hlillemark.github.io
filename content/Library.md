@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Currently reading:
-A Farewell To Arms |  Ernest Hemingway
+What is Intelligence? | Blaise Aguera y Arcas    
 Democracy in America | Alexis de Tocqueville   
 Diplomacy | Henry Kissinger   
 The History of Western Philosophy | Bertrand Russell   
@@ -17,6 +17,7 @@ En el Tiempo de las Mariposas | Julia Alvarez
 
 
 ## 2026
+A Farewell To Arms |  Ernest Hemingway   
 The Price of Our Values | Augustin Landier and David Thesmar  
 American Hagwon | Min Jin Lee   
 Invisible China: How the Urban-Rural Divide Threatens China's Rise | Scott Rozelle and Natalie Hell   

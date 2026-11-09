@@ -45,6 +45,19 @@ blockquote.transclude:has(.pub-card) {
   }
 }
 
+// The homepage embeds the recent-publications block. Only cards explicitly
+// marked as featured should appear in its Recent Highlights section.
+body[data-slug="index"]
+  blockquote.transclude
+  .recent-publications
+  > .pub-card:not(.featured),
+body[data-slug="index"]
+  blockquote.transclude
+  .recent-publications
+  > p:empty {
+  display: none;
+}
+
 @media (max-width: 800px) {
   .pub-card {
     box-sizing: border-box;
