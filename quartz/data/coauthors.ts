@@ -2,6 +2,7 @@
 // An empty URL leaves the name as plain text until a website is provided.
 export const coauthorLinks: Record<string, string> = {
   "Alex Rojas": "https://a5rojas.github.io",
+  "Amani Kiruga": "https://amanikiruga.github.io/",
   "Ayush Maniar": "https://ayushmaniar.github.io/",
   "Ayush Tewari": "https://ayushtewari.com/",
   "Benhao Huang": "https://huskydoge.github.io/",
