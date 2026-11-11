@@ -36,7 +36,7 @@ The following papers are listed in chronological order:
     Amani Kiruga*, Zhiyi Li*, Ruojin Cai*, <b class="pub-self">Hansen Lillemark</b>, Xiaoshan Wu, Ayush Tewari, Yilun Du<br>
     <em>NeurIPS 2026</em><br>
     <a href="https://ugg-model.github.io/" target="_blank">project page</a> /
-    <a href="https://ugg-model.github.io/assets/ugg-paper.pdf" target="_blank">paper</a> /
+    <a href="https://arxiv.org/abs/2611.14440" target="_blank">paper</a> /
     <a href="https://github.com/amanikiruga/UGG" target="_blank">code</a> /
     <a href="/static/bibtex/ugg.txt" target="_blank">bibtex</a>
   </div>
